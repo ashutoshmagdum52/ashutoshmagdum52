@@ -15,23 +15,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python 🐍 | SQL 🗄️ | C++ ⚙️ | Java ☕  
+- **Languages:** Python 🐍 | SQL 🗄️ | C++ ⚙️ 
 - **ML/DL:** TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy  
 - **Databases & Cloud:** MySQL | MongoDB | AWS  
 - **Tools & Platforms:** Git | GitHub | Jupyter | VS Code  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshMagdum&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshMagdum&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshMagdum&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
