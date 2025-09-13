@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Python 🐍 | SQL 🗄️ | C++ ⚙️ 
 - **ML/DL:** TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy  
-- **Databases & Cloud:** MySQL | MongoDB | AWS  
+- **Databases & Cloud:** MySQL   
 - **Tools & Platforms:** Git | GitHub | Jupyter | VS Code  
 
 ---
@@ -30,7 +30,7 @@
   <a href="mailto:ashutoshmagdum52@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AshutoshMagdum">
+  <a href="https://github.com/AshutoshMagdum52">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
